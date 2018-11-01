@@ -17,3 +17,5 @@ The link of the course is https://www.udemy.com/complete-python-bootcamp/
 My Certificate URL is https://www.udemy.com/certificate/UC-VCZJ9H16/
 
 Youtube URL (Program Demo) - https://youtu.be/2aywJAl8cyU
+
+![alt text](https://github.com/TDP4you/Black-Jack-Game/blob/master/Screenshot_blackjack.png)
