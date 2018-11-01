@@ -1,6 +1,6 @@
-# Black Jack Game in Python
+# Black Jack Game (Python)
 
-This is one of the two projects that I have implemented during my online course while learning python. 
+Second Project that I have implemented during my online course while learning python. 
 The rules of the game are as follows:
 1. Player have the option to choose from Stand, Hit and Double./
   a. Hit: Take another card from the dealer.
